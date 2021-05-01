@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TreeTest
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\nPor\ ejemplo\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 10.\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Niv.0\r\n\ \ \ \ \ \ \ \ \ \ 7.\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 13.\ \ \ \ \ \ Niv.1\r\n\ \ \ 5.\ \ \ \ \ \ \ \ \ \ \ 8.\ \ \ \ \ \ 12.\ \ \ \ \ \ \ \ 14\ Niv.2\r\n\r\nNiveles,\ 0,\ 1\ y\ 2\ \r\nUn\ nivel\ impar\ es\ el\ Nivel\ 1...\r\n0\ y\ 2\ son\ niveles\ pares.
+comment2.params=
+comment2.target=void\ testCountOddNodes()
+comment2.text=\r\n\ Entonces,\ la\ cantidad\ de\ nodos\ del\ Nivel\ 1\ es\ 2,\ que\ serian\ el\ 7\ y\ el\ 13.\r\n
+comment3.params=
+comment3.target=void\ testCountOddNodesWithExtraLevels()
+comment3.text=\r\n\ El\ mismo\ test\ pero\ con\ otro\ nivel\r\n
+numComments=4
