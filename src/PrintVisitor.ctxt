@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PrintVisitor
+comment1.params=aTree
+comment1.target=void\ visitTree(Tree)
+comment2.params=aTree\ level
+comment2.target=PrintedTree\ createTree(Tree,\ int)
+comment3.params=aTree\ carry
+comment3.target=int\ spaces(PrintedTree,\ int)
+comment4.params=list\ aTree
+comment4.target=void\ add(java.util.ArrayList,\ PrintedTree)
+comment5.params=list\ prev
+comment5.target=void\ print(java.util.ArrayList,\ int)
+numComments=6

@@ -1,6 +1,7 @@
 public class Tree<T>{
     public T data;
     public Tree<T> left, right;
+    public Tree(){}
     public Tree(T object){
         data = object;
     }

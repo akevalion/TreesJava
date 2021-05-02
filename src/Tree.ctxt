@@ -1,7 +1,9 @@
 #BlueJ class context
 comment0.target=Tree
-comment1.params=object
-comment1.target=Tree(java.lang.Object)
-comment2.params=visitor
-comment2.target=void\ accept(TreeVisitor)
-numComments=3
+comment1.params=
+comment1.target=Tree()
+comment2.params=object
+comment2.target=Tree(java.lang.Object)
+comment3.params=visitor
+comment3.target=void\ accept(TreeVisitor)
+numComments=4

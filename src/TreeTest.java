@@ -31,7 +31,19 @@ Un nivel impar es el Nivel 1...
         trees[2].left = trees[5];
         trees[2].right = trees[6];
     }
-    
+    @Test
+    public void testPrint(){
+        PrintVisitor<Integer> visitor = new PrintVisitor();
+        trees[4].right = new Tree(20);
+        trees[0].accept(visitor);
+        
+        System.out.println(visitor.result);
+        assertEquals(visitor.result, 
+        "-----10\n"+
+        "-7-------13\n"+
+        "5-8----12--14\n"+
+        "---20 ");
+    }
     /**
      * Entonces, la cantidad de nodos del Nivel 1 es 2, que serian el 7 y el 13.
      */
